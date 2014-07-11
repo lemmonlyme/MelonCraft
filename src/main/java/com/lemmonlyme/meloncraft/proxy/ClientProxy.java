@@ -1,5 +1,5 @@
 package com.lemmonlyme.meloncraft.proxy;
 
-public class ClientProxy
+public class ClientProxy extends CommonProxy
 {
 }

@@ -1,0 +1,12 @@
+[17:36:23] [main/INFO]: Setting user: ForgeDevName
+[17:36:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:36:26] [Client thread/ERROR]: Couldn't initialize twitch stream
+[17:36:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MelonCraft
+[17:36:40] [Sound Library Loader/INFO]: Sound engine started
+[17:36:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:36:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:36:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MelonCraft
+[17:36:45] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:36:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:36:46] [Sound Library Loader/INFO]: Sound engine started
+[17:38:42] [Client thread/INFO]: Stopping!

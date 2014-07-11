@@ -1,0 +1,21 @@
+[
+{
+  "modid": "MelonCraft",
+  "name": "MelonCraft",
+  "description": "A small test mod, with a melon theme.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "lemmonlyme"
+  ],
+  "credits": "To pahimar, for his great tutorials.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

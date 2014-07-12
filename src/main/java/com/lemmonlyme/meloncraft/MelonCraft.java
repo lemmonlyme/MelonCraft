@@ -1,6 +1,6 @@
 package com.lemmonlyme.meloncraft;
 
-import com.lemmonlyme.meloncraft.configuration.ConfigurationHandler;
+import com.lemmonlyme.meloncraft.handler.ConfigurationHandler;
 import com.lemmonlyme.meloncraft.proxy.IProxy;
 import com.lemmonlyme.meloncraft.reference.Reference;
 import cpw.mods.fml.common.Mod;

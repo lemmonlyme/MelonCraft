@@ -1,6 +1,8 @@
 package com.lemmonlyme.meloncraft;
 
 import com.lemmonlyme.meloncraft.handler.ConfigurationHandler;
+import com.lemmonlyme.meloncraft.init.ModBlocks;
+import com.lemmonlyme.meloncraft.init.ModItems;
 import com.lemmonlyme.meloncraft.proxy.IProxy;
 import com.lemmonlyme.meloncraft.reference.Reference;
 import com.lemmonlyme.meloncraft.utility.LogHelper;
@@ -26,6 +28,9 @@ public class MelonCraft
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("Preinitialization complete.");
+
+        ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler

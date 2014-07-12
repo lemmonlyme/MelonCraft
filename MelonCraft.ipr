@@ -171,6 +171,16 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="caram_000">
+      <words>
+        <w>lemmonlyme</w>
+        <w>meloncraft</w>
+        <w>preinitialization</w>
+        <w>unlocalized</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MelonCraft.iml" filepath="$PROJECT_DIR$/MelonCraft.iml" />

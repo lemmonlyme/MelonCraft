@@ -1,8 +1,8 @@
-item.MelonBrick.name=Melon Brick
-item.MelonScoop.name=Melon Scoop
-item.MelonBall.name=Melon Ball
+item.meloncraft:melonBrick.name=Melon Brick
+item.meloncraft:melonScoop.name=Melon Scoop
+item.meloncraft:melonBall.name=Melon Ball
 
-tile.MelonBricks.name=Melon Bricks
+tile.meloncraft:melonBricks.name=Melon Bricks
 
-itemGroup.LemBlocksTab=Lem's Blocks
-itemGroup.LemItemsTab=Lem's Items
+itemGroup.meloncraft:lemBlocksTab=MelonCraft Blocks
+itemGroup.meloncraft:lemItemsTab=MelonCraft Items

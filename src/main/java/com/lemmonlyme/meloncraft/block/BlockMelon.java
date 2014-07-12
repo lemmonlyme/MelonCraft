@@ -1,6 +1,7 @@
 package com.lemmonlyme.meloncraft.block;
 
 import com.lemmonlyme.meloncraft.reference.Reference;
+import com.lemmonlyme.meloncraft.tabs.TabMelon;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
@@ -16,7 +17,7 @@ public class BlockMelon extends Block
     public BlockMelon(Material material)
     {
         super(material);
-        this.setCreativeTab(CreativeTabs.tabBlock);
+        this.setCreativeTab(TabMelon.MelonTab);
     }
 
     public BlockMelon()

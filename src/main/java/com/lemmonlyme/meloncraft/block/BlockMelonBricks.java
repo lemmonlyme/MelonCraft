@@ -1,7 +1,6 @@
 package com.lemmonlyme.meloncraft.block;
 
 import net.minecraft.block.material.Material;
-import com.lemmonlyme.meloncraft.reference.Reference;
 
 public class BlockMelonBricks extends BlockMelon
 {

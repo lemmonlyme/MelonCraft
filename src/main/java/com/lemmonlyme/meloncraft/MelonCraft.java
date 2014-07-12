@@ -1,5 +1,6 @@
 package com.lemmonlyme.meloncraft;
 
+import com.lemmonlyme.meloncraft.configuration.ConfigurationHandler;
 import com.lemmonlyme.meloncraft.proxy.IProxy;
 import com.lemmonlyme.meloncraft.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -20,7 +21,7 @@ public class MelonCraft
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler

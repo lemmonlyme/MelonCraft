@@ -4,6 +4,8 @@ import com.lemmonlyme.meloncraft.handler.ConfigurationHandler;
 import com.lemmonlyme.meloncraft.init.ModBlocks;
 import com.lemmonlyme.meloncraft.init.ModItems;
 import com.lemmonlyme.meloncraft.proxy.IProxy;
+import com.lemmonlyme.meloncraft.recipes.Crafting;
+import com.lemmonlyme.meloncraft.recipes.Smelting;
 import com.lemmonlyme.meloncraft.reference.Reference;
 import com.lemmonlyme.meloncraft.utility.LogHelper;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -31,6 +33,8 @@ public class MelonCraft
 
         ModItems.init();
         ModBlocks.init();
+        Crafting.init();
+        Smelting.init();
     }
 
     @Mod.EventHandler

@@ -3,6 +3,3 @@ item.meloncraft:melonScoop.name=Melon Scoop
 item.meloncraft:melonBall.name=Melon Ball
 
 tile.meloncraft:melonBricks.name=Melon Bricks
-
-itemGroup.meloncraft:lemBlocksTab=MelonCraft Blocks
-itemGroup.meloncraft:lemItemsTab=MelonCraft Items

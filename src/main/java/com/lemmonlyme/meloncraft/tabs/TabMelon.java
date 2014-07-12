@@ -18,7 +18,7 @@ public class TabMelon
         @Override
         public String getTranslatedTabLabel()
         {
-            return "Let's Mod Reboot";
+            return Reference.MOD_ID;
         }
     };
 }

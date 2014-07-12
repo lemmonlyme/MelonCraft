@@ -152,3 +152,12 @@
 [22:38:37] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [22:38:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [22:38:37] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[22:55:33] [main/INFO] [GradleStart]: username: caraman0bananas@gmail.com
+[22:55:33] [main/INFO] [GradleStart]: password: legos123
+[22:55:33] [main/INFO] [GradleStart]: Extra: []
+[22:55:33] [main/INFO] [GradleStart]: Password found, attempting login
+[22:55:34] [main/INFO] [GradleStart]: Login Succesful!
+[22:55:34] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {twitch_access_token=[com.mojang.authlib.properties.Property@1cab519]}, --username, lemmonlyme, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, 907cb3189a6a4bd3b824f8e09ae1b88c, --assetIndex, 1.7.10, --uuid, 56170b910d3943e9b04ea22efdae09a5, --assetsDir, C:/Users/caram_000/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[22:55:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[22:55:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[22:55:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

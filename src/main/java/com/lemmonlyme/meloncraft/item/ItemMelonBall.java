@@ -7,4 +7,11 @@ public class ItemMelonBall extends ItemMelon
     super();
     this.setUnlocalizedName("melonBall");
     }
+/*
+    @Override
+    public ItemStack onItemRightClick(ItemStack itemStack, World world, EntityPlayer entityPlayer)
+    {
+
+    }
+*/
 }
